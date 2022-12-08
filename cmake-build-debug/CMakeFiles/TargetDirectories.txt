@@ -1,0 +1,3 @@
+C:/Users/vyakymets/CLionProjects/SokobanGame/cmake-build-debug/CMakeFiles/SokobanGame.dir
+C:/Users/vyakymets/CLionProjects/SokobanGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vyakymets/CLionProjects/SokobanGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
